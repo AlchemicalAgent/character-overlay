@@ -311,7 +311,7 @@ const Editor = ({
                   colors={manaGradientColors}
                   label={
                     <>
-                      AsP{" "}
+                      Power{" "}
                       <Popover>
                         <PopoverTrigger>
                           <Box
@@ -374,7 +374,7 @@ const Editor = ({
 
               <FormControl display="flex" alignItems="center">
                 <FormLabel htmlFor="email-alerts" mb="0">
-                  AsP?
+                  Power?
                 </FormLabel>
                 <Switch
                   id="email-alerts"
