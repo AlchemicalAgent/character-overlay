@@ -29,7 +29,7 @@ export const CharacterOverlay = (props: {
             label={
               <Text as="span">
                 <Text fontWeight="bold" as="span">
-                  LeP
+                  Health
                 </Text>{" "}
                 <Text as="span">
                   {props.character.currentHealth} /{" "}
