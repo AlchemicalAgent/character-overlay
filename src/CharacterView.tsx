@@ -46,7 +46,7 @@ export const CharacterOverlay = (props: {
               label={
                 <Text as="span">
                   <Text fontWeight="bold" as="span">
-                    AsP
+                    Power
                   </Text>{" "}
                   <Text as="span">
                     {props.character.currentMana} /{" "}
