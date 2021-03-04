@@ -420,7 +420,7 @@ const Editor = ({
               ) : null}
               <FormControl display="flex" alignItems="center">
                 <FormLabel htmlFor="email-alerts" mb="0">
-                  SchiPs?
+                  Tokens?
                 </FormLabel>
                 <Switch
                   id="email-alerts"
@@ -464,7 +464,7 @@ const FatePointInput = (props: {
 
   return (
     <InputGroup size="sm">
-      <InputLeftAddon children="Total Schips" />
+      <InputLeftAddon children="Total Tokens" />
       <Input
         borderRadius="0"
         value={value}
