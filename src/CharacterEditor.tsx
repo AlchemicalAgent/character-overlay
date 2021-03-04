@@ -243,7 +243,7 @@ const Editor = ({
                 colors={healthGradientColors}
                 label={
                   <>
-                    LeP
+                    Health
                     <Popover>
                       <PopoverTrigger>
                         <Box
