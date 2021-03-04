@@ -28,7 +28,7 @@ export const FatePoints = (props: {
 }): React.ReactElement => (
   <HStack justifyContent="flex-end">
     <Text fontWeight="bold" as="span">
-      SchiPs
+      
     </Text>
     {times(props.current, (index) => (
       <FatePoint isActive={true} key={`active_${index}`} />
